@@ -1,0 +1,78 @@
+@font-face {
+	font-family: 'Kyiv*Type Sans';
+	src: url('fonts/kyivtype_sans.eot'); /* IE 9 Compatibility Mode */
+	src: url('fonts/kyivtype_sans.eot?#iefix') format('embedded-opentype'), /* IE < 9 */
+		url('fonts/kyivtype_sans.woff2') format('woff2'), /* Super Modern Browsers */
+		url('fonts/kyivtype_sans.woff') format('woff'), /* Firefox >= 3.6, any other modern browser */
+		url('fonts/kyivtype_sans.ttf') format('truetype'), /* Safari, Android, iOS */
+		url('fonts/kyivtype_sans.svg#kyivtype_sans') format('svg'); /* Chrome < 4, Legacy iOS */
+}
+main
+{
+    background-color: #24FE2D;
+    height: 650px;
+}
+#r1
+{
+    font-family: 'Kyiv*Type Sans';
+    font-size: 23px;
+    margin-left: 100px;
+}
+#nav1
+{
+    background-color: yellow;
+  
+}
+.t1
+{
+    display: flex;
+    justify-content: space-around;
+    padding-top: 50px;
+}
+.t2
+{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 30px;
+}
+.butt1
+{
+    margin-right: 100px;
+}
+.butt2
+{
+    margin-right: 40px;
+}
+.text
+{
+   /*border: 5px solid #000;*/
+  
+   text-align: center;
+   margin-top: 100px;
+   font-family: 'Kyiv*Type Sans';
+   font-size: 30px;
+}
+footer
+{
+    height: 100px;
+    background-color: rgb(44, 75, 177);
+}
+.f1
+{
+    display: flex;
+    justify-content: space-around;
+    height: 100%;
+    align-items: center;
+    
+    color:white;
+    font-family: 'Kyiv*Type Sans';
+    font-size: 20px;
+}
+/*.text1
+{
+   
+    border: 5px solid #000;
+    text-align: center;
+
+}
+*/
